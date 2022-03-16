@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "siavash",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
